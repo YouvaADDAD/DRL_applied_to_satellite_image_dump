@@ -1,0 +1,2 @@
+model_checkpoint_path: "dqn_duel_weights100_50_connexionPenalisation.h5f"
+all_model_checkpoint_paths: "dqn_duel_weights100_50_connexionPenalisation.h5f"
